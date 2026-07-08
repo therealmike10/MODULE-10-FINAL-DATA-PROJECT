@@ -22,7 +22,7 @@ El objetivo del proyecto es analizar la evolución histórica del rendimiento de
 
 ## ℹ️ Datos utilizados
 
-### 'TeamStatistics.csv'. Fuente: [Kaggle - NBA Dataset](https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores)
+### 'TeamStatistics.csv' (Fuente: [Kaggle - NBA Dataset](https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores))
 
 Tabla con estadísticas de equipo a nivel partido. Incluye, entre otras variables:
 
@@ -40,7 +40,7 @@ Tabla con estadísticas de equipo a nivel partido. Incluye, entre otras variable
 - Tiros de campo, triples y tiros libres intentados/anotados.
 - Tipo de partido: 'Regular Season' o 'Playoffs'.
 
-### 'nbaallelo.csv'. Fuente: [DataHub - FiveThirtyEight](https://datahub.io/fivethirtyeight/nba-elo)
+### 'nbaallelo.csv' (Fuente: [DataHub - FiveThirtyEight](https://datahub.io/fivethirtyeight/nba-elo))
 
 Tabla histórica con datos de Elo para partidos NBA. Incluye variables como:
 
@@ -52,7 +52,7 @@ Tabla histórica con datos de Elo para partidos NBA. Incluye variables como:
 - Clasificación del equipo como favorito o underdog.
 
 
-## Flujo de trabajo seguido
+## ⏩ Flujo de trabajo seguido
 
 ### 1. Exploración y limpieza de 'TeamStatistics.csv'
 
