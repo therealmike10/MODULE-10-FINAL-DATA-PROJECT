@@ -4,7 +4,7 @@ Proyecto final del Módulo 10 del curso **Data & Analytics V3** de ThePower, des
 
 Este proyecto se centra en el tratamiento completo de un conjunto de datos real relacionado con partidos de la **NBA**, combinando estadísticas de equipo por partido con información basada en el sistema **Elo**. El objetivo principal ha sido aplicar un flujo de trabajo completo de análisis de datos: obtención de datos, limpieza, transformación, unión de tablas, análisis descriptivo, análisis estadístico y creación de dashboards interactivos en **Power BI**.
 
-Esto conjunto de datos ha sido elegido de manera deliberada, ya que uno de mis proyectos en este curso, en concreto el proyecto del Módulo 4 (Dashboards), consisitió en elaborar un Dashboard en Excel con datos de una temporada reciente de la NBA. Escogiendo este conjunto de datos, por tanto, he querido comprobar cómo han evolucionado mis conocimientos y habilidades durante el curso, aplicando esta vez análisis de datos avanzado mediante Python y Power BI.
+Esto conjunto de datos ha sido elegido de manera deliberada, ya que uno de mis proyectos en este curso, en concreto el proyecto del Módulo 4 (Dashboards), consisitió en elaborar un Dashboard en Excel con datos de una temporada reciente de la NBA. Escogiendo este conjunto de datos, por tanto, he querido comprobar cómo han evolucionado mis conocimientos y habilidades durante el curso, aplicando análisis de datos avanzado mediante Python y Power BI.
 
 El análisis parte de dos datasets principales: 'TeamStatistics.csv', con estadísticas de equipo por partido, y 'nbaallelo.csv', con información histórica de Elo, forecast y fuerza relativa de los equipos. Tras el proceso de limpieza y homogeneización, se generó un dataset final llamado '03_Merge_TeamStats_TeamElo.csv', con una estructura a nivel **equipo-partido**. Esto significa que cada partido real aparece normalmente dos veces: una fila desde el punto de vista de cada equipo.
 
@@ -122,7 +122,6 @@ Este dashboard muestra que el sistema Elo no predice los resultados de manera pe
 - **DAX**
 - **Power Query**
 - **Visual Studio Code**
-- **GitHub**
 
 ⚠️ Los scripts contienen rutas locales absolutas, por lo que para ejecutar el proyecto en otro ordenador sería necesario adaptar dichas rutas a la estructura local del nuevo equipo.\
 \
