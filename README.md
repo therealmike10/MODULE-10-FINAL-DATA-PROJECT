@@ -130,7 +130,7 @@ Este dashboard muestra que el sistema Elo no predice los resultados de manera pe
 \
 ⚠️ En ocasiones puntuales, se utilizó inteligencia artificial como asistente (sin generación directa de código) para enocontrar el fallo en un código que el usuario no fue capaz de encontrar por sí mismo.\
 \
-⚠️ Las herramientas de auto-completado de código, como la extensión 'auto​Docstring', fueron desactivadas para este ejercicio, favoreciendo la generación de código original por parte del usuario.\
+⚠️ Las herramientas de auto-completado de código, como la extensión 'auto​Docstring', fueron desactivadas para este ejercicio, favoreciendo la generación de código original por parte del usuario.
 
 ## ↪️ Conclusiones
 
