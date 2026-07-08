@@ -124,21 +124,21 @@ Este dashboard muestra que el sistema Elo no predice los resultados de manera pe
 - **Visual Studio Code**
 - **GitHub**
 
-⚠️ Los scripts contienen rutas locales absolutas, por lo que para ejecutar el proyecto en otro ordenador sería necesario adaptar dichas rutas a la estructura local del nuevo equipo./
-/
-⚠️ Para la elaboración del código, no se usaron herramientas de IA generativa, el código fue generado de manera íntegra por el usuario./
-/
-⚠️ En ocasiones puntuales, se utilizó inteligencia artificial como asistente (sin generación directa de código) para enocontrar el fallo en un código que el usuario no fue capaz de encontrar por sí mismo./
-/
-⚠️ Las herramientas de auto-completado de código, como la extensión 'auto​Docstring', fueron desactivadas para este ejercicio, favoreciendo la generación de código original por parte del usuario./
+⚠️ Los scripts contienen rutas locales absolutas, por lo que para ejecutar el proyecto en otro ordenador sería necesario adaptar dichas rutas a la estructura local del nuevo equipo.\
+\
+⚠️ Para la elaboración del código, no se usaron herramientas de IA generativa, el código fue generado de manera íntegra por el usuario.\
+\
+⚠️ En ocasiones puntuales, se utilizó inteligencia artificial como asistente (sin generación directa de código) para enocontrar el fallo en un código que el usuario no fue capaz de encontrar por sí mismo.\
+\
+⚠️ Las herramientas de auto-completado de código, como la extensión 'auto​Docstring', fueron desactivadas para este ejercicio, favoreciendo la generación de código original por parte del usuario.\
 
 ## ↪️ Conclusiones
 
 En general, este proyecto me ha permitido:
 
-- Trabajar con un flujo completo de análisis de datos usando Python en el entorno de Visual Studio Code para analizar dos conjuntos de datos reales, los cuales recopilaban datos históricos de la NBA.
-- Usar Python para cargar, limpiar, transformar y unir datos procedentes de archivos .csv de diferentes fuentes.
-- Seguir diferentes protocolos para tratar valores nulos, columnas redundantes y variables con formatos poco adecuados, analizando el conjunto de datos en general para cada decisión.
-- Crear nuevas variables categóricas para facilitar el análisis y la visualización de los datos.
-- Usar Power Bi para generar dashboards potentes orientados a estudiar varios aspectos del conjunto de datos que hemos creado al unir las dos tablas iniciales, enriqueciendo la información obtenida a partir de dichas tablas.
-- En general, comprender el ciclo de vida completo del dato y aplicar un flujo de trabajo extrapolable a un caso real.
+1. Trabajar con un flujo completo de análisis de datos usando Python en el entorno de Visual Studio Code para analizar dos conjuntos de datos reales, los cuales recopilaban datos históricos de la NBA.
+2. Usar Python para cargar, limpiar, transformar y unir datos procedentes de archivos .csv de diferentes fuentes.
+3. Seguir diferentes protocolos para tratar valores nulos, columnas redundantes y variables con formatos poco adecuados, analizando el conjunto de datos en general para cada decisión.
+4. Crear nuevas variables categóricas para facilitar el análisis y la visualización de los datos.
+5. Usar Power Bi para generar dashboards potentes orientados a estudiar varios aspectos del conjunto de datos que hemos creado al unir las dos tablas iniciales, enriqueciendo la información obtenida a partir de dichas tablas.
+6. En general, comprender el ciclo de vida completo del dato y aplicar un flujo de trabajo extrapolable a un caso real.
